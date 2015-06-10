@@ -142,3 +142,156 @@ usage and error reporting, and how you can opt-out.
 This is not an official Google product.
 
 [analytics]: https://github.com/google/stagehand/wiki/Anonymous-analytics-and-crash-reports
+* Dart SDK 1.6 or greater on your path
+
+Install:
+
+    $> pub global activate stagehand
+
+Update:
+
+    # activate stagehand again
+    $> pub global activate stagehand
+
+## Usage
+
+Stagehand will generate a project skeleton into the current directry. As an
+example, here is how you create a webapp with Stagehand:
+
+With Dart 1.7 or greater:
+
+    $> mkdir fancy_project
+    $> cd fancy_project
+    $> stagehand webapp
+
+With Dart 1.6:
+
+    $> mkdir fancy_project
+    $> cd fancy_project
+    $> pub global run stagehand webapp
+
+Here is how you list all of the project templates:
+
+With Dart 1.7 or greater:
+
+    $> stagehand
+
+With Dart 1.6:
+
+    $> pub global run stagehand
+
+## Goals
+
+* Opinionated and prescriptive; minimal to no options
+* Mobile-first
+* Support server and client apps
+* Becomes the best way to create a new Dart project
+* Used by WebStorm, CDE, Sublime, and more
+* Distributed as a pub package
+* Non-goal: fostering an entire ecosystem of generators. This project is opinionated. It’s not a framework for generators.
+
+## Issues and bugs
+
+Please file reports on the [GitHub Issue Tracker](https://github.com/sethladd/stagehand/issues).
+* Dart SDK 1.6 or greater on your path
+
+Install:
+
+    $> pub global activate stagehand
+
+Update:
+
+    # activate stagehand again
+    $> pub global activate stagehand
+
+## Usage
+
+Stagehand will generate a project skeleton into the current directry. As an
+example, here is how you create a webapp with Stagehand:
+
+With Dart 1.7 or greater:
+
+    $> mkdir fancy_project
+    $> cd fancy_project
+    $> stagehand webapp
+
+With Dart 1.6:
+
+    $> mkdir fancy_project
+    $> cd fancy_project
+    $> pub global run stagehand webapp
+
+Here is how you list all of the project templates:
+
+With Dart 1.7 or greater:
+
+    $> stagehand
+
+With Dart 1.6:
+
+    $> pub global run stagehand
+
+## Goals
+
+* Opinionated and prescriptive; minimal to no options
+* Mobile-first
+* Support server and client apps
+* Becomes the best way to create a new Dart project
+* Used by WebStorm, CDE, Sublime, and more
+* Distributed as a pub package
+* Non-goal: fostering an entire ecosystem of generators. This project is opinionated. It’s not a framework for generators.
+
+## Issues and bugs
+
+Please file reports on the [GitHub Issue Tracker](https://github.com/sethladd/stagehand/issues).
+* Dart SDK 1.6 or greater on your path
+
+Install:
+
+    $> pub global activate stagehand
+
+Update:
+
+    # activate stagehand again
+    $> pub global activate stagehand
+
+## Usage
+
+Stagehand will generate a project skeleton into the current directry. As an
+example, here is how you create a webapp with Stagehand:
+
+With Dart 1.7 or greater:
+
+    $> mkdir fancy_project
+    $> cd fancy_project
+    $> stagehand webapp
+
+With Dart 1.6:
+
+    $> mkdir fancy_project
+    $> cd fancy_project
+    $> pub global run stagehand webapp
+
+Here is how you list all of the project templates:
+
+With Dart 1.7 or greater:
+
+    $> stagehand
+
+With Dart 1.6:
+
+    $> pub global run stagehand
+
+## Goals
+
+* Opinionated and prescriptive; minimal to no options
+* Mobile-first
+* Support server and client apps
+* Becomes the best way to create a new Dart project
+* Used by WebStorm, CDE, Sublime, and more
+* Distributed as a pub package
+* Non-goal: fostering an entire ecosystem of generators. This project is opinionated. It’s not a framework for generators.
+
+## Issues and bugs
+
+Please file reports on the [GitHub Issue Tracker](https://github.com/sethladd/stagehand/issues).
